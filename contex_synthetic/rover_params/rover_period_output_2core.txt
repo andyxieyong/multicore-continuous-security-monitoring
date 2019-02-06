@@ -1,0 +1,30 @@
+== RT TASK STAT ==
+WCET: [240.0, 1120.0]
+PERIOD: [500, 5000]
+UTIL: [0.48, 0.224]
+Total RT Util: 0.704
+===================
+== SE TASK STAT ==
+WCET: [5342.0, 223.0]
+PERIOD_MAX: [10000, 10000]
+(Min) UTIL: [0.5342, 0.0223]
+Total SE Min Util: 0.5565
+===================
+=== RT TASKSET SCHEDULABLE ===
+navigation -> wcet: 240.0 wcrt: 240.0 period: 500
+camera -> wcet: 1120.0 wcrt: 1120.0 period: 5000
+== RT TASK ALLOCATION == 
+[[ 1.  0.]
+ [ 0.  1.]]
+
+ PROP: Taskset is schedulable. Printing periods and WCRT..
+tw_roverlogscan -> wcet: 5342.0 wcrt: 7582.0 period: 7583.0 Tmax: 10000
+cus_kmlog -> wcet: 223.0 wcrt: 2783.0 period: 2784 Tmax: 10000
+
+ FF: Taskset is schedulable. Printing periods and WCRT..
+tw_roverlogscan -> wcet: 5342.0 wcrt: 8327.472 period: 8328 Tmax: 10000
+cus_kmlog -> wcet: 223.0 wcrt: 890.68 period: 891 Tmax: 10000
+FF SE Core Alloc:
+[[ 0.  1.]
+ [ 1.  0.]]
+Script finished!

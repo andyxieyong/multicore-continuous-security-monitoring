@@ -1,0 +1,18 @@
+
+Task Name		 WCET (ms)
+-------------------------
+navigation		240.0
+camera			1120.0
+sensor			186.0
+coretemp		209.0
+location		193.0
+=========================
+tw_onwbin		5845.0
+tw_roverlogscan	5342.0
+cus_kmlog		223.0
+tw_rov_cus_km   5825.0
+
+
+WCET Script Finished!
+
+
