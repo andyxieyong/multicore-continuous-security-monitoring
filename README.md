@@ -7,5 +7,5 @@ Implementation codes of the multicore security integration framework
 
 ### Related Publication: 
 
-Monowar Hasan, Sibin Mohan, Rodolfo Pellizzoni and Rakesh Bobba, "Period Adaptation for Continuous Security Monitoring in Multicore Real-Time Systems," DATE 2020.
+Monowar Hasan, Sibin Mohan, Rodolfo Pellizzoni, and Rakesh Bobba, "Period Adaptation for Continuous Security Monitoring in Multicore Real-Time Systems," DATE 2020.
 
